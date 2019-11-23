@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "now-thinkjs-demo",
+    "script": "production.js",
+    "cwd": "/Users/lizheming/Desktop/workspace/now/now-thinkjs-demo",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
